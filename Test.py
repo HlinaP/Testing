@@ -1,5 +1,5 @@
 loupeznik = ("Lotrando", "Zubejda")
-print("Hello World")
+print("Hello World, Peter is the best")
 print("Přidávám druhý print")
 print("Hello Peter")
 
